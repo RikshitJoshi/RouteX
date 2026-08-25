@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/routex-logo.png" alt="RouteX Logo" width="220"/>
+
 # 🚀 RouteX — The Free AI Gateway
 
 **Every AI tool → many providers → through one endpoint.**  
