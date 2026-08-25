@@ -1,0 +1,17 @@
+{
+  "name": "routex",
+  "version": "1.0.0",
+  "description": "RouteX — the free AI gateway. One endpoint, many providers, automatic fallback. By Rikshit Joshi.",
+  "type": "commonjs",
+  "bin": { "routex": "bin/routex.js" },
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node bin/routex.js",
+    "doctor": "node bin/routex.js doctor",
+    "test": "node test/selftest.js"
+  },
+  "engines": { "node": ">=18" },
+  "author": "Rikshit Joshi (https://instagram.com/whoisrikshit)",
+  "license": "MIT",
+  "keywords": ["ai","gateway","llm","openai","proxy","router","fallback","routex"]
+}
